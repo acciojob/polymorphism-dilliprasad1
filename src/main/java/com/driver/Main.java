@@ -17,7 +17,7 @@ public class Main {
 
         System.out.println(p.product(9,5));
         System.out.println(p.product(9,5,8));
-        System.out.println(p.product(9,5.2));
+        System.out.println(p.product(9.2,5.2));
 
     }
 }
